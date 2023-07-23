@@ -1,2 +1,2 @@
-# Digital_e-rupi
-AFSD PG Course - Weekend Project
+# ERupee
+AFSD Project
